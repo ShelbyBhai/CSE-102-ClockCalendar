@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492668568 source:e:\1-1\clockcalendar\imain.cpp
+	"iGraphics.h"
+	"display.h"
+	<windows.h>
+
+1462108168 e:\1-1\clockcalendar\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1492539770 e:\1-1\clockcalendar\display.h
+
